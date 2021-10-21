@@ -1,0 +1,119 @@
+Scopo dello stage. 
+
+Scopo dello stage è quello di far acquisire allo studente le competenze di base sui database Oracle, al fine di inserirlo nel gruppo di lavoro che gestisce, per importanti clienti, servizi e progetti su questa tecnologia. 
+Nello specifico, particolare attenzione verrà rivolta al tema delle soluzioni cloud e alle modalità di migrazione dei database da on-premise a cloud. 
+
+Lo stage si propone di raggiungere i seguenti obbiettivi formativi:
+
+o	Introdurre il tirocinante all’architettura e alla gestione di base dei database Oracle
+o	Rendere il tirocinante autonomo nel provisioning e nella gestione dei servizi database su Oracle Cloud
+o	Presentare le principali tecniche di provisioning di un database Oracle su Cloud con focus specifico dei servizi di Cloud Oracle
+o	Realizzare una migrazione di un database reale su cloud Oracle
+
+
+Interazione tra studente e tutor aziendale
+
+Regolarmente, (almeno una volta la settimana) ci saranno incontri diretti con il tutor aziendale XXXXX per verificare lo stato di avanzamento, chiarire eventualmente gli obiettivi, affinare la ricerca e aggiornare il piano stesso di lavoro.
+
+Prodotti attesi
+
+Lo studente dovrà produrre una relazione scritta che illustri i seguenti punti
+
+- Contesto e vincoli del progetto
+  Viene descritto il database sorgente on premise, la soluzione target su Cloud Oracle ed i vincoli richiesti per la migrazione sul cloud (ad es. downtime massimo consentito). 
+
+- Descrizione della soluzione di migrazione
+	Viene descritta la tecnologia utilizzata per la migrazione su cloud, evidenziandone i punti di forza, i punti critici e la rispondenza ai vincoli progettuali. 
+	
+- Terzo punto
+	Viene documentata la procedura utilizzata, evidenziando i risultati ottenuti ed eventuali problemi riscontrati e non previsti.  
+  
+Nel caso in cui lo studente, in seguito all’analisi, abbia ancora tempo a sua disposizione, valuterà se la soluzione adottata può essere utilizzata anche per diverse tecnologie cloud, ad esempio per la migrazione su Oracle Autonomous Database. 
+
+
+Contenuti formativi previsti
+
+Durante questo progetto di stage lo studente avrà occasione di approfondire le sue conoscenze nell’ambito
+
+FORMAZIONE
+o	Introduzione ai database Oracle 
+	Struttura storage
+	Aree di memoria e processi
+	Connettività
+	Concorrenza e consistenza
+	Introduzione alle principali tecniche di backup e restore
+o	Oracle Cloud
+	Soluzioni su OCI per la gestione di database Oracle
+	Gestione di database su Oracle Cloud Service
+	Gestione di Autonomous Database
+	Gestione di Oracle Database Cloud Backup Service
+	OPERATIVITà
+		Introduzione a Oracle Golden Gate e Oracle Data Integration
+		Diversi scenari di migrazione e differenti soluzioni
+		Utilizzo di Zero Downtime Migration (ZDM)
+		Realizzazione di un caso di migrazione utilizzando  ZDM o Oracle Database Backup Service
+
+
+
+Pianificazione settimanale
+
+Prima Settimana (24 ore)
+Formazione sulle tecnologie
+	
+Seconda Settimana (24 ore)
+
+Terza Settimana (24 ore)
+
+Quarta Settimana (24 ore)
+
+Quinta Settimana (24 ore)
+
+Sesta Settimana (24 ore)
+
+Settima Settimana (24 ore)
+
+Ottava Settimana (24 ore)
+
+Nona Settimana (24 ore)
+
+Decima Settimana (24 ore)
+
+Undicesima Settimana (24 ore)
+
+Dodicesima Settimana (24 ore)
+
+Tredicesima Settimana (12 ore)
+
+
+Ripartizione ore
+
+Formazione sulle tecnologie 100 
+Definizione architettura di riferimento e relativa documentazione  80
+- Analisi del problema 16
+- Scelta della soluzione tecnoclogica di migrazione 48
+- Stesura documentazione 16
+Realizzazione della migrazione 100
+- installazione software 24
+- configurazione 16
+- dry-run   40
+- go live   20
+Collaudo 20
+- stesura documentazione finale 16
+- live demo di tutto il lavoro di stage 4 
+
+
+Obiettivi fissati
+
+Si prevede lo svolgimento dei seguenti obiettivi:•
+
+Obbligatori–O01: 
+- apprendere le nozioni fondamentali per la gestione di un database Oracle
+- conoscere le soluzione per i database Oracle su OCI (Oracle Cloud Infrastructure) e saper effettuare provisioning di database
+- conoscere le principali tecniche di migrazione di database su cloud
+- realizzare un caso concreto di migrazione di un database su cloud Oracle
+
+Desiderabili–D01:
+- conoscere e saper gestire Oracle Autonomous DB
+
+Facoltativi–F01
+- realizzare la migrazione di un database su Oracle Autonomous DB
