@@ -43,71 +43,82 @@
      % Personalizzare indicando in lista, i vari task settimana per settimana
      % sostituire a XX il totale ore della settimana
     \begin{itemize}
-        \item \textbf{Prima Settimana (XX ore)}
+        \item \textbf{I Settimana - Introduzione (24 ore)}
         \begin{itemize}
-            \item Incontro con persone coinvolte nel progetto per discutere i requisiti e le richieste
-            relativamente al sistema da sviluppare;
+            \item Incontro con persone coinvolte nel progetto per discutere i requisiti e le richieste relativamente al sistema da sviluppare;
             \item Verifica credenziali e strumenti di lavoro assegnati;
-            \item Presa visione dell’infrastruttura esistente;
-            \item Formazione sulle tecnologie adottate;
+            \item Presa visione dell'infrastruttura esistente;
         \end{itemize}
 
-        \item \textbf{Seconda Settimana - Sottotitolo (XX ore)} 
+        \item \textbf{II Settimana - Formazione 1 (24 ore)} 
+        \begin{itemize}
+            \item Oracle Fundamentals of Database in OCI - Getting Started witch Autonomous Database;
+            \item Oracle Fundamentals of Database in OCI - Autonomous Database on Shared Infrastructure;
+        \end{itemize}
+
+        \item \textbf{III Settimana - Formazione 2 (24 ore)} 
+        \begin{itemize}
+            \item Oracle Fundamentals of Database in OCI - Autonomous Database on Dedicated Infrastructure;
+            \item Oracle Fundamentals of Database in OCI - Managing and Monitoring Autonomous Database;
+        \end{itemize}
+
+        \item \textbf{IV Settimana - Formazione 3 (24 ore)} 
+        \begin{itemize}
+            \item Oracle Fundamentals of Database in OCI - DB Systems:
+            \begin{itemize}
+                \item Database Concepts;
+                \item Creating a Database System;
+                \item Managing DB Systems;
+                \item Oracle Data Guard;
+                \item Securing the Database Systems;
+            \end{itemize} 
+            \item Oracle Fundamentals of Database in OCI - MySQL;
+        \end{itemize}
+
+        \item \textbf{V Settimana - Formazione 4 (24 ore)} 
+        \begin{itemize}
+            \item Oracle Fundamentals of Database in OCI - NoSQL and others;
+            \item Oracle Cloud Database Migration and Integration - Oracle Migration and Integration;
+        \end{itemize}
+
+        \item \textbf{VI Settimana - Operatività 1 (24 ore)} 
+        \begin{itemize}
+            \item Oracle Cloud Database Migration and Integration - RMAN, Data Pump and Cloning to Migrate to OCI;
+            \item Oracle Cloud Database Migration and Integration - Migrating to OCI using SQL Developer, Cloud Backup, and GoldenGate;    
+            \item Oracle Cloud Database Migration and Integration - Understanding Source and Target Database and Migrate with Oracle ZDM;
+        \end{itemize}
+
+        \item \textbf{VII Settimana (24 ore)} 
         \begin{itemize}
             \item ;
         \end{itemize}
 
-        \item \textbf{Terza Settimana - Sottotitolo (XX ore)} 
+        \item \textbf{VIII Settimana (24 ore)} 
         \begin{itemize}
             \item ;
         \end{itemize}
 
-        \item \textbf{Quarta Settimana - Sottotitolo (XX ore)} 
+        \item \textbf{IX Settimana (24 ore)} 
         \begin{itemize}
             \item ;
         \end{itemize}
 
-        \item \textbf{Quinta Settimana - Sottotitolo (XX ore)} 
+        \item \textbf{X Settimana (24 ore)} 
         \begin{itemize}
             \item ;
         \end{itemize}
 
-        \item \textbf{Sesta Settimana - Sottotitolo (XX ore)} 
+        \item \textbf{XI Settimana (24 ore)} 
         \begin{itemize}
             \item ;
         \end{itemize}
 
-        \item \textbf{Settima Settimana - Sottotitolo (XX ore)} 
+        \item \textbf{XII Settimana (24 ore)} 
         \begin{itemize}
             \item ;
         \end{itemize}
 
-        \item \textbf{Ottava Settimana - Conclusione (XX ore)} 
-        \begin{itemize}
-            \item ;
-        \end{itemize}
-
-        \item \textbf{Nona Settimana - Conclusione (XX ore)} 
-        \begin{itemize}
-            \item ;
-        \end{itemize}
-
-        \item \textbf{Decima Settimana - Conclusione (XX ore)} 
-        \begin{itemize}
-            \item ;
-        \end{itemize}
-
-        \item \textbf{Undicesima Settimana - Conclusione (XX ore)} 
-        \begin{itemize}
-            \item ;
-        \end{itemize}
-
-        \item \textbf{Dodicesima Settimana - Conclusione (XX ore)} 
-        \begin{itemize}
-            \item ;
-        \end{itemize}
-
-        \item \textbf{Tredicesima Settimana - Conclusione (XX ore)} 
+        \item \textbf{XIII Settimana (24 ore)} 
         \begin{itemize}
             \item ;
         \end{itemize}
@@ -115,22 +126,19 @@
 }
 
 % Indicare il totale complessivo (deve essere compreso tra le 300 e le 320 ore)
-\newcommand{\totaleOre}{}
+\newcommand{\totaleOre}{300}
 
 \newcommand{\obiettiviObbligatori}{
-	 \item \underline{\textit{O01}}: primo obiettivo;
-	 \item \underline{\textit{O02}}: secondo obiettivo;
-	 \item \underline{\textit{O03}}: terzo obiettivo;
-	 
+	 \item \underline{\textit{O01}}: Apprendere le nozioni fondamentali per la gestione di un database Oracle;
+	 \item \underline{\textit{O02}}: Conoscere le soluzione per i database Oracle su OCI (Oracle Cloud Infrastructure) e saper effettuare provisioning di database;
+	 \item \underline{\textit{O03}}: Conoscere le principali tecniche di migrazione di database su cloud;
+	 \item \underline{\textit{O04}}: Realizzare un caso concreto di migrazione di un database su cloud Oracle;	 
 }
 
 \newcommand{\obiettiviDesiderabili}{
-	 \item \underline{\textit{D01}}: primo obiettivo;
-	 \item \underline{\textit{D02}}: secondo obiettivo;
+	 \item \underline{\textit{D01}}: Conoscere e saper gestire Oracle Autonomous DB;
 }
 
 \newcommand{\obiettiviFacoltativi}{
-	 \item \underline{\textit{F01}}: primo obiettivo;
-	 \item \underline{\textit{F02}}: secondo obiettivo;
-	 \item \underline{\textit{F03}}: terzo obiettivo;
+	 \item \underline{\textit{F01}}: Realizzare la migrazione di un database su Oracle Autonomous DB;
 }

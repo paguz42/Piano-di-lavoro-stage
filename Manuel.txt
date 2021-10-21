@@ -90,7 +90,7 @@ Ripartizione ore
 Formazione sulle tecnologie 100 
 Definizione architettura di riferimento e relativa documentazione  80
 - Analisi del problema 16
-- Scelta della soluzione tecnoclogica di migrazione 48
+- Scelta della soluzione tecnologica di migrazione 48
 - Stesura documentazione 16
 Realizzazione della migrazione 100
 - installazione software 24
