@@ -55,6 +55,22 @@ o	Oracle Cloud
 
 
 
+Ripartizione ore
+
+Formazione sulle tecnologie 100  - FATTO
+Definizione architettura di riferimento e relativa documentazione  80  - FATTO
+- Analisi del problema 16 FATTO
+- Scelta della soluzione tecnologica di migrazione 48 - FATTo
+- Stesura documentazione 16 FATTO
+Realizzazione della migrazione 100 FATTO
+- installazione software 24 > ZDM - Oracle Data Integration - SQL Developer - OCI Database Migration FATTO
+- configurazione 16 FATTO
+- dry-run   40 FATTO
+- go live   20 FATTO
+Collaudo 20 FATTO
+- stesura documentazione finale 16 FATTO
+- live demo di tutto il lavoro di stage 4 FATTO
+
 Pianificazione settimanale
 
 Prima Settimana (24 ore)
@@ -83,24 +99,6 @@ Undicesima Settimana (24 ore)
 Dodicesima Settimana (24 ore)
 
 Tredicesima Settimana (12 ore)
-
-
-Ripartizione ore
-
-Formazione sulle tecnologie 100 
-Definizione architettura di riferimento e relativa documentazione  80
-- Analisi del problema 16
-- Scelta della soluzione tecnologica di migrazione 48
-- Stesura documentazione 16
-Realizzazione della migrazione 100
-- installazione software 24
-- configurazione 16
-- dry-run   40
-- go live   20
-Collaudo 20
-- stesura documentazione finale 16
-- live demo di tutto il lavoro di stage 4 
-
 
 Obiettivi fissati
 
